@@ -22,6 +22,6 @@ Peringatan Stok Habis
 Notifikasi Stok Habis: Dapatkan peringatan ketika stok barang mendekati habis sehingga dapat segera dilakukan restok.
 
 ## Teknologi yang Digunakan
-Frontend: HTML, CSS, JavaScript
-Backend: [Teknologi backend yang digunakan, misalnya Node.js, PHP, Python, dll.]
-Database: [Jenis database yang digunakan, misalnya MySQL, MongoDB, dll.]
+- Frontend: HTML, CSS, JavaScript
+- Backend: Teknologi backend yang digunakan, misalnya Node.js, PHP, Python, dll.
+- Database: Jenis database yang digunakan, misalnya MySQL, MongoDB, dll.
